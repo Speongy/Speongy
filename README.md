@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Speongy/Speongy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,18 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://tryhackme-badges.s3.amazonaws.com/spingy.png" alt="TryHackMe">
+
 
 <h1 align="center">Hi 👋, I'm Kevin Nguyen</h1>
-<h3 align="center">I'm passionate about Cybersecurity!</h3>
+<h3 align="center">I'm passionate about Cybersecurity and wanting to advance my career!</h3>
 
 - 🔭 I’m currently working on **CompTIA CySA+ Certification**
-
-- 🌱 I’m currently learning **Cybersecurity**
 
 - 📫 How to reach me **k.tngu@protonmail.com**
 
 - 📄 Know about my experiences https://www.dropbox.com/scl/fi/fie194xqyohcfa5mq1kd6/Sept_2023_Resume.pdf?rlkey=lfkkuxbjj9m6nvvqrko7fipvk&dl=0
+  
+<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/spingy.png" alt="TryHackMe">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
