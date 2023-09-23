@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://tryhackme-badges.s3.amazonaws.com/spingy.png" alt="TryHackMe">
+
 <h1 align="center">Hi 👋, I'm Kevin Nguyen</h1>
 <h3 align="center">I'm passionate about Cybersecurity!</h3>
 
-- 🔭 I’m currently working on **CompTIA CySA+**
+- 🔭 I’m currently working on **CompTIA CySA+ Certification**
 
 - 🌱 I’m currently learning **Cybersecurity**
 
@@ -32,8 +34,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<img align="left" src="https://tryhackme-badges.s3.amazonaws.com/spingy.png" alt="TryHackMe">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=speongy&show_icons=true&locale=en&layout=compact" alt="speongy" /></p>
 
