@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **k.tngu@protonmail.com**
 
-- 📄 Know about my experiences https://www.dropbox.com/scl/fi/fie194xqyohcfa5mq1kd6/Sept_2023_Resume.pdf?rlkey=lfkkuxbjj9m6nvvqrko7fipvk&dl=0
+- 📄 Know about my experiences https://www.dropbox.com/scl/fi/tu71x3nd96cdd0pao200b/Resume_10_2023.pdf?rlkey=1vbtn84h7dgfdo0rszhhnp7jb&dl=0
   
 <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/spingy.png" alt="TryHackMe">
 
